@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://my-gallery-grid.cqrlosarch.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/AFFITdDzWX2uldcwoXlK">
       Solution
     </a>
     <span> | </span>
@@ -44,7 +44,7 @@
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
+- [Workflow Gulp @cqrlosArch](https://github.com/cqrlosArch/workflow-gulp)
 - [Pug](https://pugjs.org/api/getting-started.html)
 - [Sass](https://sass-lang.com/)
 - [Gulp](https://gulpjs.com/)
